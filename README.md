@@ -1,7 +1,7 @@
 ## me:
 - i am using linux (arch btw)
 - i am coding some random bullshit in my free time
-- you will often find me opening a PR (or having a _deep philosophical debate_ with my code)
+- you will often find me opening a PR (or just crying to my code)
 - i **try** to make indie games sometimes (its a side-quest for now)
 
 ## socials:
