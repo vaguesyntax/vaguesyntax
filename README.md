@@ -5,8 +5,8 @@
 - i **try** to make indie games sometimes (its a side-quest for now)
 
 ## socials:
-- discord: @vague_syntax
-- thats pretty much it. i keep myself secret.🤐
+- discord: `@vague_syntax`
+- thats pretty much it. i keep myself secret. 🤐
 
 ## languages i know:
 - Turkish, English
