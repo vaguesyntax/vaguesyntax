@@ -9,6 +9,5 @@
 - thats pretty much it. i keep myself secret. 🤐
 
 ## languages i know:
-- Turkish, English
 - **QML**, Javascript, **GDScript**, Python(I mean, someone had to learn it 😳)
 - and some others i couldn't remember..
