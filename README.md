@@ -1,13 +1,10 @@
 ## me:
-- i am using linux (arch btw)
-- i am coding some random bullshit in my free time
-- you will often find me opening a PR 
-- i **try** to make indie games sometimes (its a side-quest for now)
+- i use linux (arch btw)
+- i build, break and rebuild my own setup
+- open for collaborations
+- indie game dev (currently a side-quest)
 
 ## socials:
 - discord: `@vague_syntax`
+- reddit: `u/VagueSyntax`
 - thats pretty much it. i keep myself secret. 🤐
-
-## languages i know:
-- **QML**, Javascript, **GDScript**, Python(I mean, someone had to learn it 😳)
-- and some others i couldn't remember..
